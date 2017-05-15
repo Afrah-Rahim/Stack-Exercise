@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=s1\ s2
+comment0.target=StackInterface\ merge(StackInterface,\ StackInterface)
+comment0.text=\nmerge\:\ Given\ two\ stacks\ containing\ Integer\ objects\ in\ increasing\ order\ from\ the\ bottom\ up,\ \ncreate\ a\ third\ stack\ such\ that\ the\ Integer\ objects\ are\ in\ decreasing\ order\ from\ the\ bottom\ up.\nIf\ an\ item\ appears\ n\ times\ in\ the\ two\ given\ stacks,\ it\ will\ appear\ n\ times\ in\ the\ new\ stack.\n\n@param\ s1\ \ the\ first\ stack\n@param\ s2\ \ the\ second\ stack\n@return\ \ \ \ the\ new\ stack,\ with\ the\ items\ from\ the\ two\ given\ stacks\ merged.\n\n
+comment1.params=args
+comment1.target=void\ main(String[])
+numComments=2
