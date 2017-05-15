@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Calculator()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Calculator\r\n
+comment1.params=expression
+comment1.target=int\ evaluatePostfix(java.lang.String)
+comment1.text=\r\n\ evaluatePostfix\ will\ return\ the\ result\ of\ the\ postfix\ expression.\ There\ must\ be\ 2\ or\ more\r\n\ values\ before\ an\ operator\ in\ order\ for\ that\ operator\ to\ be\ used.\r\n\ \r\n\ @param\ \ String\ expression\ -\ The\ postfix\ expression\ that\ will\ be\ evaluated.\r\n\ @return\ The\ result\ of\ the\ postfix\ expression.\ If\ at\ any\ time\ a\ number\ is\ divided\ by\ 0,\r\n\ \ \ \ \ \ \ \ \ -1\ will\ be\ returned.\r\n
+numComments=2
